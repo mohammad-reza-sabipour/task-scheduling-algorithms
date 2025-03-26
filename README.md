@@ -1,2 +1,2 @@
 # task-scheduling-algorithms
-Implementation of Min-Min and Min-Max scheduling algorithm.
+Implementation of the Min-Min and Min-Max scheduling algorithms.
